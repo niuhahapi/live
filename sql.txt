@@ -1,0 +1,549 @@
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小梅','123456','18638969281',10,0,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小兰','123456','18638969271',50,0,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小菊','123456','18638969261',100,0,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小竹','123456','18638969251',192,0,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小风','123456','18638969241',1000,160,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小雨','123456','18638969231',132,0,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小雷','123456','18638969221',2000,600,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('小电','123456','18638969211',5000,1200,0,0,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('老炮','123456','18638969200',5000,1200,1,500,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('才人','123456','18638969200',6000,1800,1,501,0);
+insert into Users(uname,pwd,phone,levelIntegral,vipIntegral,mark,houseNum,ustate) values('大大','123456','18638969381',0,0,2,0,0);
+
+
+insert into care values(1,1,10,0);
+insert into care values(2,2,10,0);
+insert into care values(3,3,11,0);
+insert into care values(4,4,10,0);
+insert into care values(5,5,11,0);
+insert into care values(6,6,11,0);
+insert into care values(7,7,10,0);
+insert into care values(8,8,11,0);
+insert into care values(9,9,10,0);
+insert into care values(10,10,11,0);
+insert into care values(11,11,10,0);
+insert into care values(12,5,10,0);
+insert into care values(13,1,11,0);
+
+
+
+insert into shop values(1,'水滴',0,0);
+insert into shop values(2,'荧光棒',100,89);
+insert into shop values(3,'大宝剑',100,89);
+insert into shop values(4,'鸡腿',1000,890);
+insert into shop values(5,'大血瓶',5000,4450);
+insert into shop values(6,'魔法书',5000,4450);
+insert into shop values(7,'膝盖',9000,8010);
+insert into shop values(8,'圣杯',10000,8900);
+insert into shop values(9,'大火箭',20000,17800);
+insert into shop values(10,'宇宙飞船',50000,44500);
+
+
+
+insert into tools values(1,1,1,0);
+insert into tools values(2,1,2,0);
+insert into tools values(3,1,3,0);
+insert into tools values(4,1,4,0);
+insert into tools values(5,1,5,0);
+insert into tools values(6,1,6,0);
+insert into tools values(7,1,7,0);
+insert into tools values(8,1,8,0);
+insert into tools values(9,1,9,0);
+insert into tools values(10,1,10,0);
+insert into tools values(11,2,1,0);
+insert into tools values(12,2,2,0);
+insert into tools values(13,2,3,0);
+insert into tools values(14,2,4,0);
+insert into tools values(15,2,5,0);
+insert into tools values(16,2,6,0);
+insert into tools values(17,2,7,0);
+insert into tools values(18,2,8,0);
+insert into tools values(19,2,9,0);
+insert into tools values(20,2,10,0);
+insert into tools values(21,3,1,0);
+insert into tools values(22,3,2,0);
+insert into tools values(23,3,3,0);
+insert into tools values(24,3,4,0);
+insert into tools values(25,3,5,0);
+insert into tools values(26,3,6,0);
+insert into tools values(27,3,7,0);
+insert into tools values(28,3,8,0);
+insert into tools values(29,3,9,0);
+insert into tools values(30,3,10,0);
+insert into tools values(31,4,1,0);
+insert into tools values(32,4,2,0);
+insert into tools values(33,4,3,0);
+insert into tools values(34,4,4,0);
+insert into tools values(35,4,5,0);
+insert into tools values(36,4,6,0);
+insert into tools values(37,4,7,0);
+insert into tools values(38,4,8,0);
+insert into tools values(39,4,9,0);
+insert into tools values(40,4,10,0);
+insert into tools values(41,5,1,0);
+insert into tools values(42,5,2,0);
+insert into tools values(43,5,3,0);
+insert into tools values(44,5,4,0);
+insert into tools values(45,5,5,0);
+insert into tools values(46,5,6,0);
+insert into tools values(47,5,7,0);
+insert into tools values(48,5,8,0);
+insert into tools values(49,5,9,0);
+insert into tools values(50,5,10,0);
+insert into tools values(51,6,1,0);
+insert into tools values(52,6,2,0);
+insert into tools values(53,6,3,6);
+insert into tools values(54,6,4,1);
+insert into tools values(55,6,5,0);
+insert into tools values(56,6,6,0);
+insert into tools values(57,6,7,0);
+insert into tools values(58,6,8,0);
+insert into tools values(59,6,9,0);
+insert into tools values(60,6,10,0);
+insert into tools values(61,7,1,0);
+insert into tools values(62,7,2,0);
+insert into tools values(63,7,3,0);
+insert into tools values(64,7,4,0);
+insert into tools values(65,7,5,0);
+insert into tools values(66,7,6,0);
+insert into tools values(67,7,7,0);
+insert into tools values(68,7,8,0);
+insert into tools values(69,7,9,0);
+insert into tools values(70,7,10,0);
+insert into tools values(71,8,1,1000);
+insert into tools values(72,8,2,0);
+insert into tools values(73,8,3,0);
+insert into tools values(74,8,4,30);
+insert into tools values(75,8,5,0);
+insert into tools values(76,8,6,0);
+insert into tools values(77,8,7,0);
+insert into tools values(78,8,8,1);
+insert into tools values(79,8,9,0);
+insert into tools values(80,8,10,0);
+insert into tools values(81,9,1,0);
+insert into tools values(82,9,2,0);
+insert into tools values(83,9,3,0);
+insert into tools values(84,9,4,0);
+insert into tools values(85,9,5,0);
+insert into tools values(86,9,6,10);
+insert into tools values(87,9,7,5);
+insert into tools values(88,9,8,0);
+insert into tools values(89,9,9,0);
+insert into tools values(90,9,10,1);
+insert into tools values(91,10,1,0);
+insert into tools values(92,10,2,0);
+insert into tools values(93,10,3,0);
+insert into tools values(94,10,4,20);
+insert into tools values(95,10,5,20);
+insert into tools values(96,10,6,20);
+insert into tools values(97,10,7,20);
+insert into tools values(98,10,8,0);
+insert into tools values(99,10,9,0);
+insert into tools values(100,10,10,0);
+insert into tools values(101,11,1,0);
+insert into tools values(102,11,2,0);
+insert into tools values(103,11,3,0);
+insert into tools values(104,11,4,0);
+insert into tools values(105,11,5,0);
+insert into tools values(106,11,6,0);
+insert into tools values(107,11,7,0);
+insert into tools values(108,11,8,10);
+insert into tools values(109,11,9,0);
+insert into tools values(110,11,10,2);
+
+
+
+insert into houseinfo values(500,10,1,'今天你开炮了吗','老炮直播间','lp.com',10);
+insert into houseinfo values(501,11,1,'今天依旧很有才','才人直播间','cr.com',10);
+
+
+
+insert into type1 values(1,'全部');
+insert into type1 values(2,'娱乐天地');
+insert into type1 values(3,'网游竞技');
+insert into type1 values(4,'单机热游');
+insert into type1 values(5,'手游休闲');
+
+insert into type2 values(1,'英雄联盟');
+insert into type2 values(2,'问道');
+insert into type2 values(3,'地下城与勇士');
+insert into type2 values(4,'穿越火线');
+insert into type2 values(5,'逆战');
+insert into type2 values(6,'QQ飞车');
+insert into type2 values(7,'炉石传说');
+insert into type2 values(8,'无限法则');
+insert into type2 values(9,'坦克世界');
+insert into type2 values(10,'堡垒之夜');
+insert into type2 values(11,'魔兽DOTA1');
+insert into type2 values(12,'DOTA2');
+insert into type2 values(13,'倩女幽魂');
+insert into type2 values(14,'梦三国');
+insert into type2 values(15,'生死狙击');
+insert into type2 values(16,'QQ三国');
+insert into type2 values(17,'反恐精英Online');
+insert into type2 values(18,'CS:GO');
+insert into type2 values(19,'剑灵');
+insert into type2 values(20,'守望先锋');
+insert into type2 values(21,'跑跑卡丁车');
+insert into type2 values(22,'战舰世界');
+insert into type2 values(23,'星际争霸');
+insert into type2 values(24,'天涯明月刀');
+insert into type2 values(25,'使命召唤Online');
+insert into type2 values(26,'寻仙');
+insert into type2 values(27,'诛仙3');
+insert into type2 values(28,'英魂之刃');
+insert into type2 values(29,'流放之路');
+insert into type2 values(30,'枪神纪');
+insert into type2 values(31,'大话西游');
+insert into type2 values(32,'QQ炫舞');
+insert into type2 values(33,'劲舞团');
+insert into type2 values(34,'逆水寒');
+insert into type2 values(35,'龙之谷');
+insert into type2 values(36,'上古世纪');
+insert into type2 values(37,'绝地求生');
+insert into type2 values(38,'我的世界');
+insert into type2 values(39,'饥荒');
+insert into type2 values(40,'Rust');
+insert into type2 values(41,'刺客信条');
+insert into type2 values(42,'SCUM');
+insert into type2 values(43,'武侠义');
+insert into type2 values(44,'太吾绘卷');
+insert into type2 values(45,'灵魂筹码');
+insert into type2 values(46,'极品飞车');
+insert into type2 values(47,'骑马与砍杀');
+insert into type2 values(48,'战地5');
+insert into type2 values(49,'幽灵行动:荒野');
+insert into type2 values(50,'缺氧');
+insert into type2 values(51,'无人深空');
+insert into type2 values(52,'幽浮2');
+insert into type2 values(53,'古墓丽影');
+insert into type2 values(54,'怪物猎人世界');
+insert into type2 values(55,'漫漫长夜');
+insert into type2 values(56,'鬼泣');
+insert into type2 values(57,'星秀');
+insert into type2 values(58,'吃喝玩乐');
+insert into type2 values(59,'一起看');
+insert into type2 values(60,'娱乐天地');
+insert into type2 values(61,'户外');
+insert into type2 values(62,'颜值');
+insert into type2 values(63,'二次元');
+insert into type2 values(64,'美食');
+insert into type2 values(65,'交友');
+insert into type2 values(66,'音乐');
+insert into type2 values(67,'动漫');
+insert into type2 values(68,'体育');
+insert into type2 values(69,'语音直播');
+insert into type2 values(70,'一起听');
+insert into type2 values(71,'技术宅');
+insert into type2 values(72,'王者荣耀');
+insert into type2 values(73,'刺激战场');
+insert into type2 values(74,'全军出击');
+insert into type2 values(75,'QQ飞车手游');
+insert into type2 values(76,'CF手游');
+insert into type2 values(77,'球球大作战');
+insert into type2 values(78,'火影忍者');
+insert into type2 values(79,'战塔英雄');
+insert into type2 values(80,'我叫MT4');
+insert into type2 values(81,'狼人杀手游');
+insert into type2 values(82,'创造与魔法');
+insert into type2 values(83,'部落冲突');
+insert into type2 values(84,'中国象棋');
+insert into type2 values(85,'QQ炫舞手游');
+insert into type2 values(86,'天天狼人杀');
+insert into type2 values(87,'欢乐斗地主');
+insert into type2 values(88,'新月狼人杀');
+insert into type2 values(89,'天天酷跑');
+insert into type2 values(90,'天使纪元');
+
+
+
+insert into type values(1,1,1);
+insert into type values(2,1,2);
+insert into type values(3,1,3);
+insert into type values(4,1,4);
+insert into type values(5,1,5);
+insert into type values(6,1,6);
+insert into type values(7,1,7);
+insert into type values(8,1,8);
+insert into type values(9,1,9);
+insert into type values(10,1,10);
+insert into type values(11,1,11);
+insert into type values(12,1,12);
+insert into type values(13,1,13);
+insert into type values(14,1,14);
+insert into type values(15,1,15);
+insert into type values(16,1,16);
+insert into type values(17,1,17);
+insert into type values(18,1,18);
+insert into type values(19,1,19);
+insert into type values(20,1,20);
+insert into type values(21,1,21);
+insert into type values(22,1,22);
+insert into type values(23,1,23);
+insert into type values(24,1,24);
+insert into type values(25,1,25);
+insert into type values(26,1,26);
+insert into type values(27,1,27);
+insert into type values(28,1,28);
+insert into type values(29,1,29);
+insert into type values(30,1,30);
+insert into type values(31,1,31);
+insert into type values(32,1,32);
+insert into type values(33,1,33);
+insert into type values(34,1,34);
+insert into type values(35,1,35);
+insert into type values(36,1,36);
+insert into type values(37,1,37);
+insert into type values(38,1,38);
+insert into type values(39,1,39);
+insert into type values(40,1,40);
+insert into type values(41,1,41);
+insert into type values(42,1,42);
+insert into type values(43,1,43);
+insert into type values(44,1,44);
+insert into type values(45,1,45);
+insert into type values(46,1,46);
+insert into type values(47,1,47);
+insert into type values(48,1,48);
+insert into type values(49,1,49);
+insert into type values(50,1,50);
+insert into type values(51,1,51);
+insert into type values(52,1,52);
+insert into type values(53,1,53);
+insert into type values(54,1,54);
+insert into type values(55,1,55);
+insert into type values(56,1,56);
+insert into type values(57,1,57);
+insert into type values(58,1,58);
+insert into type values(59,1,59);
+insert into type values(60,1,60);
+insert into type values(61,1,61);
+insert into type values(62,1,62);
+insert into type values(63,1,63);
+insert into type values(64,1,64);
+insert into type values(65,1,65);
+insert into type values(66,1,66);
+insert into type values(67,1,67);
+insert into type values(68,1,68);
+insert into type values(69,1,69);
+insert into type values(70,1,70);
+insert into type values(71,1,71);
+insert into type values(72,1,72);
+insert into type values(73,1,73);
+insert into type values(74,1,74);
+insert into type values(75,1,75);
+insert into type values(76,1,76);
+insert into type values(77,1,77);
+insert into type values(78,1,78);
+insert into type values(79,1,79);
+insert into type values(80,1,80);
+insert into type values(81,1,81);
+insert into type values(82,1,82);
+insert into type values(83,1,83);
+insert into type values(84,1,84);
+insert into type values(85,1,85);
+insert into type values(86,1,86);
+insert into type values(87,1,87);
+insert into type values(88,1,88);
+insert into type values(89,1,89);
+insert into type values(90,1,90);
+insert into type values(91,2,57);
+insert into type values(92,2,58);
+insert into type values(93,2,59);
+insert into type values(94,2,60);
+insert into type values(95,2,61);
+insert into type values(96,2,62);
+insert into type values(97,2,63);
+insert into type values(98,2,64);
+insert into type values(99,2,65);
+insert into type values(100,2,66);
+insert into type values(101,2,67);
+insert into type values(102,2,68);
+insert into type values(103,2,69);
+insert into type values(104,2,70);
+insert into type values(105,2,71);
+insert into type values(106,3,1);
+insert into type values(107,3,2);
+insert into type values(108,3,3);
+insert into type values(109,3,4);
+insert into type values(110,3,5);
+insert into type values(111,3,6);
+insert into type values(112,3,7);
+insert into type values(113,3,8);
+insert into type values(114,3,9);
+insert into type values(115,3,10);
+insert into type values(116,3,11);
+insert into type values(117,3,12);
+insert into type values(118,3,13);
+insert into type values(119,3,14);
+insert into type values(120,3,15);
+insert into type values(121,3,16);
+insert into type values(122,3,17);
+insert into type values(123,3,18);
+insert into type values(124,3,19);
+insert into type values(125,3,20);
+insert into type values(126,3,21);
+insert into type values(127,3,22);
+insert into type values(128,3,23);
+insert into type values(129,3,24);
+insert into type values(130,3,25);
+insert into type values(131,3,26);
+insert into type values(132,3,27);
+insert into type values(133,3,28);
+insert into type values(134,3,29);
+insert into type values(135,3,30);
+insert into type values(136,3,31);
+insert into type values(137,3,32);
+insert into type values(138,3,33);
+insert into type values(139,3,34);
+insert into type values(140,3,35);
+insert into type values(141,3,36);
+insert into type values(142,4,37);
+insert into type values(143,4,38);
+insert into type values(144,4,39);
+insert into type values(145,4,40);
+insert into type values(146,4,41);
+insert into type values(147,4,42);
+insert into type values(148,4,43);
+insert into type values(149,4,44);
+insert into type values(150,4,45);
+insert into type values(151,4,46);
+insert into type values(152,4,47);
+insert into type values(153,4,48);
+insert into type values(154,4,49);
+insert into type values(155,4,50);
+insert into type values(156,4,51);
+insert into type values(157,4,52);
+insert into type values(158,4,53);
+insert into type values(159,4,54);
+insert into type values(160,4,55);
+insert into type values(161,4,56);
+insert into type values(162,5,72);
+insert into type values(163,5,73);
+insert into type values(164,5,74);
+insert into type values(165,5,75);
+insert into type values(166,5,76);
+insert into type values(167,5,77);
+insert into type values(168,5,78);
+insert into type values(169,5,79);
+insert into type values(170,5,80);
+insert into type values(171,5,81);
+insert into type values(172,5,82);
+insert into type values(173,5,83);
+insert into type values(174,5,84);
+insert into type values(175,5,85);
+insert into type values(176,5,86);
+insert into type values(177,5,87);
+insert into type values(178,5,88);
+insert into type values(179,5,89);
+insert into type values(180,5,90);
+
+
+
+insert into employees values(1,'张三','123456','张三','1847575844@qq.com','18638969291',1,1);
+insert into employees values(2,'李四','123456','李四','1847575843@qq.com','18638969290',2,1)
+
+
+
+insert into housingmanager values(1,8,500);
+insert into housingmanager values(2,9,501);
+
+
+
+insert into Requirei values(1,5000,2800);
+
+
+
+insert into SociatyTask values(1,45);
+
+
+
+insert into videos values(1,1,'彩虹',3,1);
+insert into videos values(2,6,'厉害了，我的国',3,1);
+insert into videos values(3,5,'我爱我国',9,1);
+
+
+
+
+insert into Barrage values(1,'毛泽东');
+insert into Barrage values(2,'习近平');
+
+
+
+insert into task values(1,10,now(),now(),1,1);
+insert into task values(2,11,now(),now(),1,1);
+
+select * from task
+
+insert into livehouse values(1,500,9897,1);
+insert into livehouse values(2,501,12314,1);
+
+
+
+
+insert into approves values(1,1,'直播申请',now(),now(),1,1,'');
+
+
+
+insert into Broadcast values(1,'a1.jpg','');
+insert into Broadcast values(2,'a2.jpg','');
+insert into Broadcast values(3,'a3.jpg','');
+
+
+insert into Recharges values(1,9,3000,'充值虚拟货币',now());
+insert into Recharges values(2,8,1600,'充值虚拟货币',now());
+
+insert into livesinfo values(1,500,now(),190000,80000,now());
+insert into livesinfo values(2,501,now(),380000,190000,now());
+
+insert into quizsinfo values(1,1,500,now(),'中奖');
+insert into quizsinfo values(2,2,501,now(),'中奖');
+
+insert into tasksinfo values(1,1,500,1,50,now());
+insert into tasksinfo values(2,1,500,2,50,now());
+insert into tasksinfo values(3,1,500,2,50,now());
+insert into tasksinfo values(4,6,501,5,5,now());
+insert into tasksinfo values(5,6,501,4,20,now());
+insert into tasksinfo values(6,8,501,9,1,now());
+
+insert into anchortitles values(1,500,'炮营');
+insert into anchortitles values(2,501,'才子');
+
+insert into usertitles values(1,1,1);
+insert into usertitles values(2,1,2);
+insert into usertitles values(3,8,1);
+insert into usertitles values(4,9,2);
+
+insert into Message values(1,10,'提现5000元');
+insert into Message values(2,11,'提现5000元');
+
+select * from power;
+select * from role;
+select * from role_power;
+
+select * from anchortitles;
+select * from approves;
+select * from barrage;
+select * from care;
+select * from employees;
+select * from livehouse;
+select * from Message;
+select * from usertitles;
+select * from anchortitles;
+select * from tasksinfo;
+select * from Broadcast;
+select * from Recharges;
+select * from task;
+select * from requirei;
+select * from SociatyTask;
+select * from LivesInfo;
+select * from housingmanager;
+select * from houseinfo;
+select * from quizsinfo;
+select * from users;
+select * from videos;
+select * from type;
+select * from type1;
+select * from type2;
+select * from tools;
+select * from shop;
