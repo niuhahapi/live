@@ -36,14 +36,14 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>1.3.2</version>
+            <version>1.3.1</version>
         </dependency>
 
         <!-- mysql -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.12</version>
+            <version>5.1.22</version>
         </dependency>
 
         <!-- 支持调转视图页面 -->
@@ -70,6 +70,14 @@
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
+        <!--表单序列化
+        https://mvnrepository.com/artifact/org.webjars.bower/jquery.serializeJSON -->
+        <dependency>
+            <groupId>org.webjars.bower</groupId>
+            <artifactId>jquery.serializeJSON</artifactId>
+            <version>2.9.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>

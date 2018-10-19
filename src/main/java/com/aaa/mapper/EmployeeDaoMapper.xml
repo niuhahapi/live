@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.aaa.dao.EmployeeDao">
+
+    <!--&lt;!&ndash;public List<Map<String,Object>> LoginBack(String ename,String epwd);&ndash;&gt;
+    <select id="LoginBack" resultType="Map">
+      select * from employees where ename=#{param1} and epwd=#{param2}
+    </select>-->
+
+</mapper>
